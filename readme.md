@@ -31,5 +31,6 @@ There are two statements to run *grunt*:
 	- grunt deploy:
 	Compile stylesheets, minify and concatenate javascript files and copy all assets into `public` folder
 	- grunt:
-	It runs `deploy` (previous task) and execute `connect` and `watch`. `connect` runs a web server in 9009 port and `watch` allows to deploy the application everytime a file is updated.
+	It runs `deploy` (previous task) and execute `connect` and `watch`. 
+	`connect` runs a web server in 9009 port and `watch` allows to deploy the application everytime a file is updated.
 	Open http://localhost:9009 in your browser to view the application.
