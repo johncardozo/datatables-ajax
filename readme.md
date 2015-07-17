@@ -31,6 +31,7 @@ There are two statements to run *grunt*:
 * grunt deploy:
 
 Compile stylesheets, minify and concatenate javascript files and copy all assets into `public` folder
+
 * grunt:
 
 It runs `deploy` (previous task) and execute `connect` and `watch`. 
