@@ -1,0 +1,20 @@
+{
+  "name": "datatables-ajax",
+  "version": "0.0.0",
+  "authors": [
+    "John Cardozo <johncardozo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "datatables": "~1.10.7",
+    "jquery": "~2.1.4"
+  }
+}
